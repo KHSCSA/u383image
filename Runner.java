@@ -18,12 +18,7 @@ public class Runner{
 
 
         // assignment
-        MyFunctions.recolor(new Picture("download.jpg"), "outputRecolor.jpg");
-        // MyFunctions.negate(new Picture("download.jpg"), "outputNegate.jpg"); 
-        // MyFunctions.flipAcrossHorizontal(new Picture("download.jpg"), "outputFAH.jpg");
-        // MyFunctions.mirror(new Picture("download.jpg"), "outputMirror.jpg");
-        MyFunctions.popArt(new Picture("download.jpg"), "outputPopArt.jpg");
-        // MyFunctions.reduceRed(new Picture("download.jpg"), "outputReduceRed.jpg");
-
-    }
+ 
+        
+    } // close main()
 }
