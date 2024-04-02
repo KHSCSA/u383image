@@ -3,9 +3,11 @@ public class MyFunctions{
     // example 1
     // this shows how we can access any pixel
     public static void speckle(Picture myPic, String filename){
+        // TODO
 
 
     }  // close speckle()
+
 
 
     // example 2
@@ -13,19 +15,24 @@ public class MyFunctions{
     // and their individual red, green, and blue values
     // then set the pixel to a specific RGB
     public static void grayscale(Picture myPic, String filename){
+        // TODO
 
 
     } // close greyscale()
+
+
 
 
     // example 3
     // this shows how we can access a portion of the image
     // and set the pixels to a specific RGB
     public static void blackBox(Picture myPic, String filename){
+        // TODO
 
 
 
     } // close blackBox()
+
 
 
 
@@ -34,6 +41,7 @@ public class MyFunctions{
     // and get the ARGB value
     // and swap with a different location
     public static void flipAcrossVertical(Picture myPic, String filename){
+        // TODO
 
 
 
@@ -44,6 +52,7 @@ public class MyFunctions{
     
     // example 5
     public static void rot180(Picture myPic, String filename){
+        // TODO
 
 
 
