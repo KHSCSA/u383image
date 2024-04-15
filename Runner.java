@@ -11,11 +11,11 @@ public class Runner{
         // --------- examples
         // each of these receive two parameters:
         // the Picture object and the output filename
-        // MyFunctions.speckle(new Picture("pic.jpg"), "outputSpeckle2.jpg");
-        // MyFunctions.grayscale(new Picture("pic.jpg"), "outputGS.jpg");
-        // MyFunctions.blackBox(new Picture("pic.jpg"), "outputBB.jpg");
-        // MyFunctions.flipAcrossVertical(new Picture("pic.jpg"), "outputFlipV.jpg");
-        // MyFunctions.rot180(new Picture("pic.jpg"), "outputRot180.jpg");
+        // MyFunctions.speckle(new Picture("download.jpg"), "outputSpeckle2.jpg");
+        // MyFunctions.grayscale(new Picture("download.jpg"), "outputGS.jpg");
+        // MyFunctions.blackBox(new Picture("download.jpg"), "outputBB.jpg");
+        // MyFunctions.flipAcrossVertical(new Picture("download.jpg"), "outputFlipV.jpg");
+        // MyFunctions.rot180(new Picture("download.jpg"), "outputRot180.jpg");
 
 
         // assignment
